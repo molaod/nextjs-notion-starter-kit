@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  name: 'Ben Moo',
+  domain: quanyu.molaoda.icu',
   author: 'Ben Moo',
 
   // open graph metadata (optional)
@@ -58,7 +58,7 @@ export default siteConfig({
        pageId: '4e9a0fcae72c4175bbe6ddd463fbd873'
      },
      {
-       title: 'Forms',
+       title: '问卷',
        pageId: '51dc052d9b56432e8baf965601a51f77'
      }
    ]
