@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Ben Moo',
-  domain: quanyu.molaoda.icu',
+  domain: 'quanyu.molaoda.icu',
   author: 'Ben Moo',
 
   // open graph metadata (optional)
